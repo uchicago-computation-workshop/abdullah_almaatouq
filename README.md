@@ -29,7 +29,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/abdullah_almaatouq/blob/master/WON-draft.pdf">"> The Wisdom of the Network </a>
+  <a href="https://github.com/uchicago-computation-workshop/abdullah_almaatouq/blob/master/WON-draft.pdf"> The Wisdom of the Network </a>
 </h2>
 
 <br>
